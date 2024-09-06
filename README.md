@@ -15,7 +15,7 @@ The project consists of:
 
 - **Backend**: Flask
 - **Frontend**: React
-- **Database**: [Specify your database, e.g., MySQL, PostgreSQL]
+- **Database**: MySQL
 - **Model**: LLaMA-2 (7B parameters) fine-tuned with LORA and QLORA techniques
 - **Other**: 
   - `transformers`, `accelerate`, `bitsandbytes`, `trl` for model handling
