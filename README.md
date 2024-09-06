@@ -145,8 +145,3 @@ This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md)
 - Thanks to **Tensor Dock** for providing GPU resources.
 
 --- 
-
-This version organizes the project details more clearly and provides a cleaner structure. Let me know if you need further improvements! 
-
-**a.** Would you like help creating a detailed API section for your endpoints?  
-**b.** Do you want assistance with writing unit tests for the Flask backend?
