@@ -1,6 +1,4 @@
-Here is a revised and structured version of the README file:
 
----
 
 # QueryCrafter: Natural Language to SQL Query Generator
 
